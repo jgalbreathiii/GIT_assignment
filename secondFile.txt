@@ -1,4 +1,6 @@
 This is the initial contents
 of the second file that comprises
 our most excellent project.
-UserB adds a line
+<<<<<<< HEAD
+I suppose UserA and UserB will have to compromise.
+>>>>>>> 33eafcc1e2bbfaae099a342842b80faed6a572db
